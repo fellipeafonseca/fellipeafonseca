@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Atualmente trabalhando com RPA (Robotic Process Automation)
-- 🌱 Estudando ferramentas de automação e Python
+- Atualmente trabalhando com RPA (Robotic Process Automation)
+- Estudando ferramentas de automação e Python
 
 <div align="center">
   <a href="https://github.com/fellipeafonseca">
