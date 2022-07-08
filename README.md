@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - Atualmente trabalhando com RPA (Robotic Process Automation)
-- Estudando ferramentas de automação e Python
+- Estudando ferramentas de automação, técnicas de liderança e Python
 
 <div align="center">
   <a href="https://github.com/fellipeafonseca">
