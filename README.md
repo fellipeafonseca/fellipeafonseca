@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">Sobre mim...</h2>
-<br clear="both">
 <h3 align="left">Sou um Analista de Sistemas em RPA (Automação de Processos Robóticos), com uma paixão por transformar processos manuais em soluções automatizadas eficientes e escaláveis. <br><br>💡 Com mais de 5 anos de experiência na área, tenho trabalhado em projetos que não apenas aumentam a produtividade, mas também melhoram a precisão e reduzem custos operacionais. Minha abordagem é sempre orientada para resultados, buscando entender profundamente as necessidades dos negócios para implementar soluções personalizadas.<br><br>🔧 HABILIDADE PRINCIPAIS:<br>- Desenvolvimento e Suporte de Bots em RPA utilizando ferramentas como UiPath, Automation  Anywhare e Power Automate.<br>- Analises de Processos para identificar oportunidades de automação e otimização.<br>- Colaboração com equipes multifuncionais, garantindo uma integração perfeita entre tecnologia e operações.<br>- Capacitação e Suporte a úsuarios promovendo uma adoção eficaz das soluções implementadas.<br><br>🌟 Estou sempre em busca de novos desafios que me permitam aplicar minha expertise em tecnologia para ajudar as empresas a alcançarem seus objetivos estratégicos. Acredito que a automação é o futuro dos negócios e estou animado para fazer parte dessa transformação!<br><br>📫 Vamos conectar! Estou aberto a oportunidades e colaborações que possam agregar valor ao meu trabalho e à sua empresa.</h3>
 
 ###
