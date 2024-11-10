@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="left">Olá Visitante, Seja Bem-Vindo👋!</h2>
+<h2 align="left">Olá Visitante, Seja Bem-Vindo!👋</h2>
 
 ###
 
