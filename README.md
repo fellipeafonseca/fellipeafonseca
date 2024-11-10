@@ -45,16 +45,20 @@ Here are some ideas to get you started:
 
 <h2 align="left">Sou o  Fellipe</h2>
 
+###
+
 <h4 align="left">Analista de Sistemas em RPA</h4>
 
 ###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="www.linkedin.com/in/fellipe-fonseca" target="_blank">
+  <a href="https://www.linkedin.com/in/fellipe-fonseca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://wa.me/5515981496222" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
@@ -65,7 +69,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<h4 align="left">𝗦𝗼𝘂 𝘂𝗺 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗦𝗶𝘀𝘁𝗲𝗺𝗮𝘀 𝗲𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗮𝗱𝗼 𝗲𝗺 𝗥𝗣𝗔 (𝗔𝘂𝘁𝗼𝗺𝗮𝗰ã𝗼 𝗱𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗼𝘀 𝗥𝗼𝗯ó𝘁𝗶𝗰𝗼𝘀), com uma paixão por transformar processos manuais em soluções automatizadas eficientes e escaláveis. <br><br>💡 𝗖𝗼𝗺 𝗺𝗮𝗶𝘀 𝗱𝗲 𝟱 𝗮𝗻𝗼𝘀 𝗱𝗲 𝗲𝘅𝗽𝗲𝗿𝗶ê𝗻𝗰𝗶𝗮 na área, tenho trabalhado em projetos que não apenas aumentam a produtividade, mas também melhoram a precisão e reduzem custos operacionais. Minha abordagem é sempre orientada para resultados, buscando entender profundamente as necessidades dos negócios para implementar soluções personalizadas.<br><br>🔧 HABILIDADE PRINCIPAIS:<br>- 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗲 𝗦𝘂𝗽𝗼𝗿𝘁𝗲 𝗧é𝗰𝗻𝗶𝗰𝗼 𝗱𝗲 𝗕𝗼𝘁𝘀 𝗥𝗣𝗔 utilizando ferramentas como 𝗨𝗶𝗣𝗮𝘁𝗵, 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗔𝗻𝘆𝘄𝗵𝗲𝗿𝗲 e 𝗣𝗼𝘄𝗲𝗿 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲.<br>- 𝗔𝗻á𝗹𝗶𝘀𝗲 𝗱𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗼𝘀 para identificar oportunidades de automação e otimização.<br>- 𝗖𝗼𝗹𝗮𝗯𝗼𝗿𝗮𝗰ã𝗼 𝗰𝗼𝗺 𝗘𝗾𝘂𝗶𝗽𝗲𝘀 𝗠𝘂𝗹𝘁𝗶𝗳𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗶𝘀, garantindo uma integração perfeita entre tecnologia e operações.<br>- 𝗖𝗮𝗽𝗮𝗰𝗶𝘁𝗮𝗰ã𝗼 𝗲 𝗦𝘂𝗽𝗼𝗿𝘁𝗲 𝗮 𝗨𝘀𝘂á𝗿𝗶𝗼𝘀, promovendo uma adoção eficaz das soluções implementadas.<br><br>🌟 𝗘𝘀𝘁𝗼𝘂 𝘀𝗲𝗺𝗽𝗿𝗲 𝗲𝗺 𝗯𝘂𝘀𝗰𝗮 𝗱𝗲 𝗻𝗼𝘃𝗼𝘀 𝗱𝗲𝘀𝗮𝗳𝗶𝗼𝘀 que me permitam aplicar minha expertise em tecnologia para ajudar as empresas a alcançarem seus objetivos estratégicos. Acredito que a automação é o futuro dos negócios e estou animado para fazer parte dessa transformação!<br><br>📫 Vamos conectar! Estou aberto a oportunidades e colaborações que possam agregar valor ao meu trabalho e à sua empresa.</h4>
+<h4 align="left">Sou um Analista de Sistemas em RPA (Automação de Processos Robóticos), com uma paixão por transformar processos manuais em soluções automatizadas eficientes e escaláveis. <br><br>💡 Com mais de 5 anos de experiência na área, tenho trabalhado em projetos que não apenas aumentam a produtividade, mas também melhoram a precisão e reduzem custos operacionais. Minha abordagem é sempre orientada para resultados, buscando entender profundamente as necessidades dos negócios para implementar soluções personalizadas.<br><br>🔧 HABILIDADE PRINCIPAIS:<br>- Desenvolvimento e Suporte de Bots em RPA utilizando ferramentas como UiPath, Automation  Anywhare e Power Automate.<br>- Analises de Processos para identificar oportunidades de automação e otimização.<br>- Colaboração com equipes multifuncionais, garantindo uma integração perfeita entre tecnologia e operações.<br>- Capacitação e Suporte a úsuarios promovendo uma adoção eficaz das soluções implementadas.<br><br>🌟 Estou sempre em busca de novos desafios que me permitam aplicar minha expertise em tecnologia para ajudar as empresas a alcançarem seus objetivos estratégicos. Acredito que a automação é o futuro dos negócios e estou animado para fazer parte dessa transformação!<br><br>📫 Vamos conectar! Estou aberto a oportunidades e colaborações que possam agregar valor ao meu trabalho e à sua empresa.</h4>
 
 ###
 
