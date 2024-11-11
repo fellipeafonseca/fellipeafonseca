@@ -75,7 +75,12 @@ Here are some ideas to get you started:
  <img src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" height="30" alt="automation-anywhare logo"  />
  <img width="12" />
  
- <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman logo"  />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baanlogo.jpg" height="30" alt="BaanERP logo"  />
+ <img width="12" />
+<img src="https://vetores.org/wp-content/uploads/sap.png" height="30" alt="SAP logo"  />
+ <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg" height="30" alt="Totvs logo"  />
+ <img width="12" />
 
  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
@@ -94,7 +99,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+ <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman logo"  />
+ 
+ <img width="12" />
+  <img src="https://www.tangentia.com/wp-content/themes/twentysixteen/images/automation/rpa/new/abbyy-flexicapture.png" height="30" alt="flexicapture logo"  />
 
+   <img width="12" />
+  <img src="https://shortdark.co.uk/static/348cb933b20178bbd51cc56ff8243777/945a8/regex.png" height="30" alt="Regex logo"  />
  
 
  
