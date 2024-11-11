@@ -67,46 +67,40 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-  <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" height="30" alt="uipath logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" height="30" title="UiPath"  alt="uipath logo"  />
  <img width="12" />
  <img src="https://ppmworks.com/wp-content/uploads/2021/04/power-automate-logo-800-600.png" height="30" title="Power Automate" alt="power-automate logo"  />
  <img width="12" />
-
- <img src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" height="30" alt="automation-anywhare logo"  />
+ <img src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" height="30" title="Automation Anywhare"  alt="automation-anywhare logo"  />
  <img width="12" />
- 
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baanlogo.jpg" height="30" alt="BaanERP logo"  />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baanlogo.jpg" height="30" title="Baan ERP"  alt="BaanERP logo"  />
  <img width="12" />
-<img src="https://vetores.org/wp-content/uploads/sap.png" height="30" alt="SAP logo"  />
+<img src="https://vetores.org/wp-content/uploads/sap.png" height="30" title="SAP"  alt="SAP logo"  />
  <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg" height="30" alt="Totvs logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg" height="30" title="Totvs"  alt="Totvs logo"  />
  <img width="12" />
-
  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" title="MySQL"  alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" title="SQLite"  alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" title="SQL Server"  alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="GIT"  alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" title="CSharp"  alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript"  alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"  alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"  alt="java logo"  />
   <img width="12" />
- <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman logo"  />
- 
+ <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" title="Postman"  alt="postman logo"  />
  <img width="12" />
-  <img src="https://www.tangentia.com/wp-content/themes/twentysixteen/images/automation/rpa/new/abbyy-flexicapture.png" height="30" alt="flexicapture logo"  />
+  <img src="https://www.tangentia.com/wp-content/themes/twentysixteen/images/automation/rpa/new/abbyy-flexicapture.png" height="30" title="FlexiCapture"  alt="flexicapture logo"  />
 
    <img width="12" />
-  <img src="https://shortdark.co.uk/static/348cb933b20178bbd51cc56ff8243777/945a8/regex.png" height="30" alt="Regex logo"  />
+  <img src="https://shortdark.co.uk/static/348cb933b20178bbd51cc56ff8243777/945a8/regex.png" height="30" title="Regex"  alt="Regex logo"  />
  
 
  
