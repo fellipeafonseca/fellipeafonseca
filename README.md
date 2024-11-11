@@ -47,16 +47,12 @@ Here are some ideas to get you started:
 <h3 align="left">Analista de Sistemas, especialista em RPA (Automação de Processos Robóticos)</h3>
 
 ###
-
-
-
 ###
 
 <h2 align="left">Sobre mim...</h2>
-<h3 align="left">💡 Com mais de 5 anos de experiência na área, tenho trabalhado em projetos que não apenas aumentam a produtividade, mas também melhoram a precisão e reduzem custos operacionais. Minha abordagem é sempre orientada para resultados, buscando entender profundamente as necessidades dos negócios para implementar soluções personalizadas.<br><br>🔧 HABILIDADE PRINCIPAIS E TECNOLOGIAS UTILIZADAS:<br><br> - Desenvolvimento e Suporte de Bots em RPA utilizando ferramentas como UiPath, Automation  Anywhare e Power Automate.<br>- Analises de Processos para identificar oportunidades de automação e otimização.<br>- Colaboração com equipes multifuncionais, garantindo uma integração perfeita entre tecnologia e operações.<br>- Capacitação e Suporte a úsuarios promovendo uma adoção eficaz das soluções implementadas.<br> </h3>
+<h3 align="left">💡 Com mais de 5 anos de experiência na área, tenho trabalhado em projetos que não apenas aumentam a produtividade, mas também melhoram a precisão e reduzem custos operacionais. Minha abordagem é sempre orientada para resultados, buscando entender profundamente as necessidades dos negócios para implementar soluções personalizadas.<br><br>🔧 HABILIDADES PRINCIPAIS E TECNOLOGIAS UTILIZADAS:<br><br> - Desenvolvimento e Suporte de Bots em RPA utilizando ferramentas como UiPath, Automation  Anywhare e Power Automate.<br>- Analises de Processos para identificar oportunidades de automação e otimização.<br>- Colaboração com equipes multifuncionais, garantindo uma integração perfeita entre tecnologia e operações.<br>- Capacitação e Suporte a úsuarios promovendo uma adoção eficaz das soluções implementadas.<br> </h3>
 
 ###
-
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" height="30" title="UiPath"  alt="uipath logo"  />
  <img width="12" />
