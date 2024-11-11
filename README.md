@@ -92,7 +92,7 @@ Here are some ideas to get you started:
  <h3 align="left">🌟Estou sempre em busca de novos desafios que me permitam aplicar minha expertise em tecnologia para ajudar as empresas a alcançarem seus objetivos estratégicos. Acredito que a automação é o futuro dos negócios e estou animado para fazer parte dessa transformação!<br><br>📫 Vamos conectar! Estou aberto a oportunidades e colaborações que possam agregar valor ao meu trabalho e à sua empresa.</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://mailto:fellipefonseca76@gmail.com" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/fellipe-fonseca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
