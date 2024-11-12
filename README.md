@@ -60,6 +60,9 @@ Here are some ideas to get you started:
  <img width="12" />
  <img src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" height="30" title="Automation Anywhare"  alt="automation-anywhare logo"  />
  <img width="12" />
+ <img src="https://avatars.githubusercontent.com/u/72993825?s=280&v=4" height="30" title="BotCity"  alt="botcity logo"  />
+
+ <img width="12" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baanlogo.jpg" height="30" title="Baan ERP"  alt="BaanERP logo"  />
  <img width="12" />
 <img src="https://vetores.org/wp-content/uploads/sap.png" height="30" title="SAP"  alt="SAP logo"  />
