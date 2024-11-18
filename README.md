@@ -92,6 +92,18 @@ Here are some ideas to get you started:
   <img src="https://shortdark.co.uk/static/348cb933b20178bbd51cc56ff8243777/945a8/regex.png" height="30" title="Regex"  alt="Regex logo"  />
 </div>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fellipeafonseca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fellipeafonseca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
  <h3 align="left">🌟Estou sempre em busca de novos desafios que me permitam aplicar minha expertise em tecnologia para ajudar as empresas a alcançarem seus objetivos estratégicos. Acredito que a automação é o futuro dos negócios e estou animado para fazer parte dessa transformação!<br><br>📫 Vamos conectar! Estou aberto a oportunidades e colaborações que possam agregar valor ao meu trabalho e à sua empresa.</h3>
 
 <div align="left">
