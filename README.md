@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ###
 
 <h1 align="left">Sou o  Fellipe!💻 </h1>
-<h3 align="left">Analista de Sistemas, especialista em RPA (Automação de Processos Robóticos)</h3>
+<h3 align="left">Profissional de T.I, especialista em RPA (Automação de Processos Robóticos)</h3>
 
 ###
 ###
