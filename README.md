@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg" height="30" title="UiPath"  alt="uipath logo"  />
  <img width="12" />
- <img src="https://ppmworks.com/wp-content/uploads/2021/04/power-automate-logo-800-600.png" height="30" title="Power Automate" alt="power-automate logo"  />
- <img width="12" />
+
  <img src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" height="30" title="Automation Anywhare"  alt="automation-anywhare logo"  />
  <img width="12" />
  <img src="https://pbs.twimg.com/profile_images/1374747222353575944/7kS6IhZb_400x400.jpg" height="30" title="BotCity"  alt="botcity logo"  />
