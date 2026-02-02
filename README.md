@@ -64,12 +64,7 @@ Here are some ideas to get you started:
  <img width="12" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baanlogo.jpg" height="30" title="Baan ERP"  alt="BaanERP logo"  />
  -->
- <img width="12" />
-<img src="https://vetores.org/wp-content/uploads/sap.png" height="30" title="SAP"  alt="SAP logo"  />
- <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/TOTVS_pos.jpg" height="30" title="Totvs"  alt="Totvs logo"  />
- <img width="12" />
- <img width="12" />
+ 
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" title="MySQL"  alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" title="SQLite"  alt="sqlite logo"  />
@@ -86,7 +81,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"  alt="java logo"  />
   <img width="12" />
  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" title="Postman"  alt="postman logo"  />
- 
+
+<img width="12" />
+ <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimEU07zYKTD37UKQp1UIV1lU6578hDyXTbg&s" height="30" title="Postman"  alt="postman logo"  />
+
  <!--
  <img width="12" />
   <img src="https://www.tangentia.com/wp-content/themes/twentysixteen/images/automation/rpa/new/abbyy-flexicapture.png" height="30" title="FlexiCapture"  alt="flexicapture logo"  />
