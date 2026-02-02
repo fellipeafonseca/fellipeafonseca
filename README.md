@@ -67,22 +67,29 @@ Here are some ideas to get you started:
  
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" title="MySQL"  alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" title="SQLite"  alt="sqlite logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" title="SQL Server"  alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="GIT"  alt="git logo"  />
+
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"  alt="java logo"  />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" title="CSharp"  alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript"  alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"  alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"  alt="java logo"  />
-
 
 <img width="12" />
- <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker"  alt="docker logo"  />
+ <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker"  alt="docker logo"/>
+
+<img width="12" />
+ <img src="https://a.slack-edge.com/80588/img/services/jenkins-ci_512.png" height="30" title="Jenkins"  alt="jenkins logo"/>
+
+ <img width="12" />
+ <img src="https://logospng.org/wp-content/uploads/google-chrome.png" height="30" title="Google Chrome"  alt="google chrome logo"/>
+
+
 
  <!--
  <img width="12" />
