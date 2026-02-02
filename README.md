@@ -84,7 +84,7 @@ Here are some ideas to get you started:
  <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker"  alt="docker logo"/>
 
 <img width="12" />
- <img src="https://a.slack-edge.com/80588/img/services/jenkins-ci_512.png" height="30" title="Jenkins"  alt="jenkins logo"/>
+ <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" height="30" title="Jenkins"  alt="jenkins logo"/>
 
  <img width="12" />
  <img src="https://logospng.org/wp-content/uploads/google-chrome.png" height="30" title="Google Chrome"  alt="google chrome logo"/>
