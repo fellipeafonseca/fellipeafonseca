@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" title="Postman"  alt="postman logo"  />
 
 <img width="12" />
- <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQimEU07zYKTD37UKQp1UIV1lU6578hDyXTbg&s" height="30" title="Postman"  alt="postman logo"  />
+ <img src="https://www.stickpng.com/pt-br/img/icones-logos-emojis/empresas-tecnicas/miniatura-do-logotipo-do-docker" height="30" title="Docker"  alt="docker logo"  />
 
  <!--
  <img width="12" />
