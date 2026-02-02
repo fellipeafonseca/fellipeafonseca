@@ -60,9 +60,10 @@ Here are some ideas to get you started:
  <img src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" height="30" title="Automation Anywhare"  alt="automation-anywhare logo"  />
  <img width="12" />
  <img src="https://pbs.twimg.com/profile_images/1374747222353575944/7kS6IhZb_400x400.jpg" height="30" title="BotCity"  alt="botcity logo"  />
-
+<!--
  <img width="12" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Baanlogo.jpg" height="30" title="Baan ERP"  alt="BaanERP logo"  />
+ -->
  <img width="12" />
 <img src="https://vetores.org/wp-content/uploads/sap.png" height="30" title="SAP"  alt="SAP logo"  />
  <img width="12" />
@@ -85,12 +86,16 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"  alt="java logo"  />
   <img width="12" />
  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" title="Postman"  alt="postman logo"  />
+ 
+ <!--
  <img width="12" />
   <img src="https://www.tangentia.com/wp-content/themes/twentysixteen/images/automation/rpa/new/abbyy-flexicapture.png" height="30" title="FlexiCapture"  alt="flexicapture logo"  />
    <img width="12" />
+   -->
+   <!--
   <img src="https://shortdark.co.uk/static/348cb933b20178bbd51cc56ff8243777/945a8/regex.png" height="30" title="Regex"  alt="Regex logo"  />
 </div>
-
+-->
 
 
 <div align="center">
