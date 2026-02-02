@@ -79,11 +79,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"  alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java"  alt="java logo"  />
-  <img width="12" />
- <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" title="Postman"  alt="postman logo"  />
+
 
 <img width="12" />
- <img src="https://www.stickpng.com/pt-br/img/icones-logos-emojis/empresas-tecnicas/miniatura-do-logotipo-do-docker" height="30" title="Docker"  alt="docker logo"  />
+ <img src="https://www.svgrepo.com/show/353659/docker-icon.svg" height="30" title="Docker"  alt="docker logo"  />
 
  <!--
  <img width="12" />
