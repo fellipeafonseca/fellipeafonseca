@@ -87,7 +87,7 @@ Here are some ideas to get you started:
  <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" height="30" title="Jenkins"  alt="jenkins logo"/>
 
  <img width="12" />
- <img src="https://logospng.org/wp-content/uploads/google-chrome.png" height="30" title="Google Chrome"  alt="google chrome logo"/>
+ <img src="https://e1.pngegg.com/pngimages/860/823/png-clipart-android-lollipop-icons-chrome-google-chrome-icon.png" height="30" title="Google Chrome"  alt="google chrome logo"/>
 
 
 
